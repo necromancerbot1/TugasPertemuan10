@@ -1,8 +1,9 @@
 # TugasWeb-P10-BlogCRUD
 
 Tugas Rutin Pertemuan 10 — Blog CRUD Laravel dengan Route Resource, Blade Layout, Components, Validasi, Flash Message, Soft Delete, dan Pagination.
-
----
+Nama    : Farel Al Rasya
+NIM     : 4253550041
+Kelas   : PSIK 25C
 
 ## 🛠️ Langkah Instalasi
 
